@@ -1,0 +1,21 @@
+body {
+    margin:  0 auto;
+    padding: 0;
+    background: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
+}
+
+.padd-all-16 {padding: 16px;}
+.bg-white { background: #fff;}
+.bg-blue {background: #3685FE;}
+.br25 {border-radius: 15px;}
+.c152A3F {color: #152A3F;}
+.cA0A3AB {color:  #A0A3AB;}
+.txt-center {text-align: center;}
+
+
+.qr-body { width: 320px; margin: 25px auto;}
+.qr-top img { width: 100%;}
+.qr-botm {padding: 0 20px;}
+.qr-botm .head {text-align: center;}
+
